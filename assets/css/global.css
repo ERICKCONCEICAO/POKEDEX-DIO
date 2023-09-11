@@ -1,0 +1,32 @@
+* { 
+    font-family: 'Roboto',sans-serif;
+    color: #1a1616;
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: capitalize;
+    list-style: none;
+}
+
+
+body {
+    background: radial-gradient(circle, #FF6B6B, #F7DC6F, #76D7C4, #3498DB, #9B59B6);
+}
+
+
+content {
+background-color: white;
+padding: 1rem;
+height: 100yh;
+
+}
+
+content h1 {
+    font-size: 3rem;
+    margin: .67em 0;
+    text-align: center;
+    color: #612424;
+    font-family: fantasy;
+    text-transform: capitalize;
+}
+
+
