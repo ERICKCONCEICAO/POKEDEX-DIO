@@ -34,7 +34,7 @@ Contribuições são bem-vindas! Se você encontrar problemas, melhorias ou novo
 
 ## Autor
 
-- [Erick Conceição] - Desenvolvedor
+- Erick Conceição - Desenvolvedor
 
 ## Agradecimentos
 
